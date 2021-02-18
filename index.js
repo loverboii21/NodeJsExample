@@ -1,5 +1,3 @@
-console.log('hello world');
-
 var names = [
     'sridhar',
     'murali',
@@ -13,3 +11,4 @@ function test (){
         console.log(element)
     }
 }
+test()
