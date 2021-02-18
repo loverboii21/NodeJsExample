@@ -1,15 +1,15 @@
 console.log('hello world');
 
-var gods = [
+var names = [
     'sridhar',
-    'master',
-    'universal',
-    'god'
+    'murali',
+    'john',
+    'paul'
 ]
 
 function test (){
-    for (let index = 0; index < gods.length; index++) {
-        const element = gods[index];
+    for (let index = 0; index < names.length; index++) {
+        const element = names[index];
         console.log(element)
     }
 }
